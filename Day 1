@@ -1,1 +1,9 @@
-
+class Solution:
+    def detectCapitalUse(self, word: str) -> bool:
+        if len(word) <= 0:
+             return true
+        first = word[0] <= z:
+        second = word[1] <= z:        
+        if not first and second:
+            return false
+        
